@@ -1,5 +1,11 @@
 # Personal Finance Tracker
 
+##video demo:
+
+https://youtu.be/ftJ5ahvdnSw
+
+---
+
 ## Overview
 
 Personal Finance Tracker is a command-line application developed in Python that helps users manage their personal finances efficiently. It allows users to record income and expenses, edit or delete transactions, search financial records, generate monthly reports, monitor spending statistics, and manage a monthly budget.
