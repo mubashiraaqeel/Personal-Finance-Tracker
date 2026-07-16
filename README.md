@@ -1,6 +1,6 @@
 # Personal Finance Tracker
 
-##video demo:
+## Video demo:
 
 https://youtu.be/ftJ5ahvdnSw
 
