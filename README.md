@@ -49,14 +49,13 @@ This project was developed as the final project for **Harvard's CS50P: Introduct
 ```
 Personal Finance Tracker/
 │
-├── main.py              # Main menu and program execution
+├── project.py              # Main menu and program execution
 ├── finance.py           # Transaction and budget management
 ├── reports.py           # Monthly reports and statistics
 ├── storage.py           # Load and save data using JSON
 ├── data.json            # Stores transactions and budget
 ├── .gitignore
-└── tests/
-    └── test_project.py
+└── test_project.py
 ```
 
 ---
